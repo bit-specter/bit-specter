@@ -50,6 +50,8 @@ Often used Visual Design Software:\
 
 Get in touch with me in social: \
 <a href="https://www.instagram.com/s3ctx">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+Professional Section:\
 <a href="https://www.linkedin.com/in/rifkyabdulhanan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 | <a href="https://github.com/s3ctx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=s3ctx&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="S3ctx's github stats" /></a> | <a href="https://github.com/S3ctx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3ctx&layout=compact&theme=buefy&hide_border=true" /></a> |
