@@ -1,4 +1,28 @@
 # S3ctx a.k.a Key
+
+I'm currently working as **Development Manager at Lontarlab**. I specialize in designing, managing innovative software solutions and building scalable applications with a focus on exceptional user experience. My journey in tech spans over five years, during which I've led cross-functional teams and driven impactful digital transformation projects.
+
+---
+
+<details>
+<summary>🌟 Key Highlights</summary>
+
+- **Experience:** Over 5 years in software development and leadership roles.
+- **Skills:** Full-stack development, application scalability, digital transformation.
+- **Languages:** English (Professional), Indonesian (Native).
+
+</details>
+
+<details>
+<summary>🚀 What You'll Find on My GitHub</summary>
+
+1. **Advanced Architectures:** Projects showcasing scalable and efficient application designs.
+2. **Open-Source Contributions:** Demonstrating my commitment to learning and collaboration.
+3. **UX-Focused Designs:** Prototypes and experiments highlighting user-centric solutions.
+
+</details>
+
+
 Native Programming Language:\
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,7 +78,5 @@ Get in touch with me in social: \
 Professional Section:\
 <a href="https://www.linkedin.com/in/rifkyabdulhanan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-| <a href="https://github.com/s3ctx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=s3ctx&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="S3ctx's github stats" /></a> | <a href="https://github.com/S3ctx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3ctx&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
-Note: This Github Stats just only public repository, not included my private repo
+<a href="https://github.com/S3ctx/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-ryken-dev.vercel.app/api/top-langs/?username=S3ctx&layout=compact&theme=buefy&hide_border=true" /></a>
