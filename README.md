@@ -71,10 +71,10 @@ Often used Visual Design Software:\
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 Get in touch with me in social: \
-<a href="https://www.instagram.com/s3ctx">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/kyy.ix">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 Professional Section:\
 <a href="https://www.linkedin.com/in/rifkyabdulhanan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-<a href="https://github.com/S3ctx/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-ryken-dev.vercel.app/api/top-langs/?username=S3ctx&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/bit-specter/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-ryken-dev.vercel.app/api/top-langs/?username=bit-specter&layout=compact&theme=buefy&hide_border=true" /></a>
