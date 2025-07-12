@@ -1,4 +1,4 @@
-# s3ctx a.k.a key
+# Bit-Specter
 
 I'm currently working as **Development Manager at Lontarlab**. I specialize in designing, managing innovative software solutions and building scalable applications with a focus on exceptional user experience. My journey in tech spans over five years, during which I've led cross-functional teams and driven impactful digital transformation projects.
 
