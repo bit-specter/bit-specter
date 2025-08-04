@@ -78,3 +78,4 @@ Professional Section:\
 
 
 <a href="https://github.com/bit-specter/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-ryken-dev.vercel.app/api/top-langs/?username=bit-specter&layout=compact&theme=buefy&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bit-specter&theme=dark&hide_border=true)](https://git.io/streak-stats)
