@@ -76,6 +76,5 @@ Get in touch with me in social: \
 Professional Section:\
 <a href="https://www.linkedin.com/in/rifkyabdulhanan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-
-<a href="https://github.com/bit-specter/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-ryken-dev.vercel.app/api/top-langs/?username=bit-specter&layout=compact&theme=buefy&hide_border=true" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=bit-specter&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/bit-specter/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-ryken-dev.vercel.app/api/top-langs/?username=bit-specter&layout=compact&theme=buefy&hide_border=true" /></a> <br/><br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bit-specter&theme=swift&hide_border=true" alt="GitHub Streak" /></a>
